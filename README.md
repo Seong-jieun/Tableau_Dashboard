@@ -7,6 +7,5 @@
 - 출처: https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data
 
 **2. [Goodreads 데이터 대시보드](https://public.tableau.com/app/profile/.58926695/viz/GoodreadsBooksDashboard/1?publish=yes)**
-- Goodreads는 독서 기록, 서평 작성, 책 추천 등을 위한 소셜 네트워크 서비스입니다.
 - Goodreads API를 통해 수집된 데이터로 책 제목, 저자, 평점, 출판사 등의 정보가 담겨있는 데이터 세트
 - 출처: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks

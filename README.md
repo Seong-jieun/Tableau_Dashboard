@@ -9,5 +9,5 @@
   - 캐글의 Goodreads 데이터를 활용하여 작품별 정보, 상위 작가, 출판 연도, 사용 언어, 상위 출판사 등을 대시보드로 구현
 
 #### 3. [About Demi Moore #Data Plus Movies 챌린지](https://public.tableau.com/app/profile/.58926695/viz/AboutDemiMooreDataPlusMovies/sheet13)
-  - Tableau에서 개최하는 'Data + Movies' 챌린지에 참가한 대시보드
+  - Tableau에서 개최하는 'Data + Movies' 챌린지에 참가
   - 영화배우 데미무어의 작품 타임라인, 출연 장르, 대표작 정보를 대시보드로 구현
